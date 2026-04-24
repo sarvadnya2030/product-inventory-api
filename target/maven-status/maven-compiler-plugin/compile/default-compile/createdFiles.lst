@@ -1,0 +1,5 @@
+com/inventory/security/SecurityConfig.class
+com/inventory/repository/ProductRepository.class
+com/inventory/model/Product.class
+com/inventory/InventoryApplication.class
+com/inventory/controller/ProductController.class
